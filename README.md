@@ -16,7 +16,7 @@ None at the moment\
 Just python installed
     
 ## Libraries
-Note: Try to avoid using the OS library when making changes to these. This is to keep it universally compatible
+Note: Try to avoid using the OS library when making changes to these. This is to keep it universally compatible.
 The Libraries used in To-Do are:
 ```
   subprocess
